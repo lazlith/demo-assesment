@@ -36,5 +36,7 @@ If the Installation Fails
 If GitHub Desktop does not install correctly, first check that the computer meets the supported operating-system requirements and that the installer was downloaded from the official GitHub Desktop website.
 If the problem continues, contact the TAFE teacher/assessor responsible for the task for assistance.
 
+more
+
 
 
