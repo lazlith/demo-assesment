@@ -1,0 +1,40 @@
+Installation
+Windows
+Go to the official GitHub Desktop download page.
+Select Download for Windows.
+Open the downloaded setup file from the Downloads folder.
+The installation will begin automatically.
+Wait for GitHub Desktop to finish installing.
+GitHub Desktop should launch when the installation is complete.
+macOS
+Go to the official GitHub Desktop download page.
+Select Download for macOS.
+Open the downloaded ZIP file.
+Open the GitHub Desktop application.
+GitHub Desktop should launch after installation is complete.
+
+Creating a GitHub Account
+If you do not already have a GitHub account:
+Go to GitHub.com.
+Select Sign up.
+Enter your email address.
+Create a username and password.
+Complete the verification steps.
+Sign in to your new GitHub account.
+
+Signing Into GitHub Desktop
+After installing GitHub Desktop:
+Open GitHub Desktop.
+Select Sign in to GitHub.com.
+A browser window will open.
+Sign in to your GitHub account.
+Follow the prompts to authorise GitHub Desktop.
+Return to GitHub Desktop.
+Complete the account setup when prompted.
+
+If the Installation Fails
+If GitHub Desktop does not install correctly, first check that the computer meets the supported operating-system requirements and that the installer was downloaded from the official GitHub Desktop website.
+If the problem continues, contact the TAFE teacher/assessor responsible for the task for assistance.
+
+
+
